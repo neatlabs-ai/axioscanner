@@ -105,4 +105,3 @@ to your Desktop including: findings table, IOC reference, and the complete
 
 *AXIOSCAN is part of the NEATLABS™ tool portfolio.*
 *Security 360, LLC — Service-Disabled Veteran-Owned Small Business*
-*For CMMC / DIB supply chain compliance consulting: security360.us*
